@@ -59,7 +59,7 @@ const ForexMilestones: React.FC = () => {
                       />
                     </div>
                     <p className="text-blue-400 font-semibold">Trading Partner</p>
-                    <p className="text-gray-400 text-sm">Co-Trader</p>
+                    <p className="text-gray-400 text-sm">Lead Trader</p>
                   </div>
                 </div>
               </div>
